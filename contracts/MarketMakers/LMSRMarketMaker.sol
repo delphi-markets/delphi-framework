@@ -4,7 +4,7 @@ import "../MarketMakers/MarketMaker.sol";
 
 
 /// @title LMSR market maker contract - Calculates share prices based on share distribution and initial funding
-/// @author Alan Lu - <alan.lu@delphi.markets>
+/// @author Alan Lu - <alan.lu@gnosis.pm>
 contract LMSRMarketMaker is MarketMaker {
     using Math for *;
 
